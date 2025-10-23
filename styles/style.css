@@ -94,7 +94,7 @@ ol {
 }
 
 .search-form__fieldset-title {
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-weight: 400;
   font-style: normal;
@@ -110,7 +110,7 @@ ol {
 }
 
 .search-form__label-text {
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
@@ -134,7 +134,7 @@ ol {
   border-left: none;
   padding-left: 0;
   background-color: inherit;
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
@@ -151,7 +151,7 @@ ol {
   color: rgb(255 255 255 / 0.7);
 }
 
-/*Чекбокс "Время суток"*/
+/*Чекбокс 'Время суток'*/
 
 .search-form__checkbox-list {
   display: flex;
@@ -193,7 +193,7 @@ ol {
   min-height: 34px;
   border: 1px solid #FFF;
   background-color: transparent;
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 18px;
@@ -238,7 +238,7 @@ ol {
 }
 
 .title {
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 75px;
@@ -309,7 +309,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 30px;
@@ -323,7 +323,7 @@ ol {
 }
 
 .content__video-card-description {
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
